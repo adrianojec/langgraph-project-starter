@@ -58,7 +58,7 @@ npx tsx src/index.ts
 ```
 
 ### 5. Folder Layout
-
+```bash
 .
 ├── src/
 │ └── index.ts
