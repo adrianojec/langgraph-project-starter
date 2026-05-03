@@ -48,6 +48,7 @@ Create these essential files in your root directory:
 - .gitignore (Add node_modules and .env)
 - .env (For your API keys)
 - src/index.ts (Your application entry point)
+- src/env.ts (initialize dotenv config)
 
 ### 4. Usage
 
